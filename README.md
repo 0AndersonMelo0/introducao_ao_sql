@@ -6,6 +6,7 @@
 Selecione todos os dados dos países da tabela_paises;
 
 <h5>Code:</h5>
+
 ```sql
 select id_nf, id_item, cod_prod, valor_unit 
 from produtos
