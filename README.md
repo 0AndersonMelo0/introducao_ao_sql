@@ -11,7 +11,8 @@ Selecione todos os dados dos países da tabela_paises;
 select * from tabela_paises;
 ```
 <h4>Output:</h4>
-![Captura de Tela (119)](https://github.com/0AndersonMelo0/introducao_ao_sql/assets/111611117/2eceddcc-6847-4ee0-9035-f28fc3c6606e)
+![Captura de Tela (119)](https://github.com/0AndersonMelo0/introducao_ao_sql/assets/111611117/b67bd6f5-d536-40fa-924b-9eeacfe29e2b)
+
 (deverá aparecer algo próximo a isso, só que com 500 entidades)
 
 <hr>
